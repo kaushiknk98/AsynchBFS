@@ -1,0 +1,30 @@
+Last login: Wed Apr  1 22:10:18 on ttys000
+kaushikn@Kaushiks-MBP ~ % cd /Users/kaushikn/Downloads/Distributed\ Computing/Project\ 2 
+kaushikn@Kaushiks-MBP Project 2 % javac bfs.java
+kaushikn@Kaushiks-MBP Project 2 % java bfs
+n = 8  root = 5
+Process with id 0 has been started
+Process with id 1 has been started
+Process with id 2 has been started
+Process with id 3 has been started
+Process with id 4 has been started
+Process with id 5 has been started
+Process with id 6 has been started
+BFS Tree : 
+Process with id 7 has been started
+5 --> 4
+4 --> 3
+4 --> 6
+6 --> 1
+6 --> 7
+7 --> 2
+1 --> 0
+kaushikn@Kaushiks-MBP Project 2 % 
+
+
+
+
+
+
+
+
